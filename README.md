@@ -1,5 +1,5 @@
 # ft_ls
-A partial re-implementation of the unix "ls" command implemented in C.
+A re-implementation of the unix "ls" command implemented in C.
 
 ## Description
 The goal of this project is to discover a sub-system of functions of operating system’s API, the associated data structures, as well as the management of memory allocation and the associated data.
